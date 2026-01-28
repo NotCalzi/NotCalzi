@@ -61,8 +61,7 @@ To feature projects here, give me 2–4 projects (name, 1-line description, tech
 
 ---
 
-## GitHub Stats (optional)
-> Add these to show live stats — replace `NotCalzi` with your GitHub username.
+## GitHub Stats
 
 ![NotCalzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotCalzi&show_icons=true&theme=tokyonight)
 
